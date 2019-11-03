@@ -15,3 +15,4 @@ dependencies:
   - BeautifulSoup4
   - lxml
   - geopy
+  - joblib
